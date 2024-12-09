@@ -2,8 +2,6 @@
 
 **Yield:** 4 stuffed bell peppers.
 
-A delicious and nutritious stuffed bell pepper recipe using pantry staples and bold spices. Perfect for a hearty meal or make-ahead leftovers.
-
 ## Ingredients
 ### Bell Peppers
 - 4 large bell peppers (any color)
@@ -77,3 +75,45 @@ A delicious and nutritious stuffed bell pepper recipe using pantry staples and b
 2. Cover and heat for about 5 minutes.
 
 Enjoy this flavorful meal fresh or as a convenient make-ahead dish!
+
+---
+
+# Nutritional Information (Per 1 Stuffed Bell Pepper)
+
+**Serving Size**: 1 stuffed bell pepper  
+**Servings Per Recipe**: 4  
+
+- **Calories**: 275 kcal  
+- **Total Fat**: 5 g  
+  - **Saturated Fat**: 0.7 g  
+  - **Trans Fat**: 0 g  
+- **Cholesterol**: 0 mg  
+- **Sodium**: 460 mg  
+- **Total Carbohydrate**: 44 g  
+  - **Dietary Fiber**: 9 g  
+  - **Total Sugars**: 6 g  
+    - **Includes 0 g Added Sugars**  
+- **Protein**: 15 g  
+
+**Vitamins and Minerals**:
+- **Vitamin D**: 0 mcg (0%)  
+- **Calcium**: 70 mg (5%)  
+- **Iron**: 3 mg (15%)  
+- **Potassium**: 690 mg (15%)  
+
+---
+
+### Breakdown of Key Ingredients (Per Pepper)
+- **Bell Pepper**: ~40 kcal, 9 g carbs, 1 g protein, 0 g fat  
+- **Rice (Cooked)**: ~100 kcal, 22 g carbs, 2 g protein, 0.2 g fat  
+- **TVP (Rehydrated)**: ~60 kcal, 6 g carbs, 9 g protein, 0.5 g fat  
+- **Black Beans**: ~40 kcal, 8 g carbs, 2.5 g protein, 0 g fat  
+- **Corn**: ~40 kcal, 10 g carbs, 1 g protein, 0.5 g fat  
+- **Spinach (Frozen)**: ~15 kcal, 2 g carbs, 2 g protein, 0.2 g fat  
+
+### Notes
+- **Calories**: Calculated based on standard ingredient data and may vary depending on exact products used.  
+- **Sodium**: May be higher or lower depending on added salts or broths.  
+- **Fat**: Mainly from hemp hearts and sesame seeds (optional).  
+- **Fiber**: Comes from black beans, bell peppers, and spinach, making this a high-fiber dish.  
+- **Protein**: TVP, black beans, and hemp hearts contribute to the high protein content.

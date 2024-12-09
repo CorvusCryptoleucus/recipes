@@ -2,8 +2,6 @@
 
 **Yield:** 2 medium pizzas (one now, one later)
 
----
-
 ## Ingredients:
 - 450 g (3 ¾ cups) all-purpose flour
 - 9 g (1 ½ teaspoons) salt
@@ -11,8 +9,6 @@
 - 7 g (2 ¼ teaspoons) instant yeast
 - 300 ml (1 ¼ cups) warm water (about 45°C / 110°F)
 - 45 ml (3 tablespoons) olive oil (plus extra for greasing)
-
----
 
 ## Instructions:
 
@@ -63,3 +59,25 @@
 - Let the baked pizza cool slightly before slicing and serving.
 
 ---
+
+## Nutritional Information (Per Serving of Pizza Crust):  
+*(Based on 8 servings per pizza)*
+
+| **Nutrient**         | **Amount Per Serving**  | **% Daily Value** (DV\*) |
+|-----------------------|-------------------------|--------------------------|
+| Calories             | 150 kcal               | 8%                      |
+| Total Fat            | 2 g                    | 3%                      |
+| Saturated Fat        | 0 g                    | 0%                      |
+| Trans Fat            | 0 g                    | -                       |
+| Cholesterol          | 0 mg                   | 0%                      |
+| Sodium               | 300 mg                 | 13%                     |
+| Total Carbohydrates  | 27 g                   | 10%                     |
+| Dietary Fiber        | 1 g                    | 4%                      |
+| Total Sugars         | 1 g                    | -                       |
+| Protein              | 4 g                    | 8%                      |
+| Vitamin D            | 0 µg                   | 0%                      |
+| Calcium              | 3 mg                   | 0%                      |
+| Iron                 | 1 mg                   | 6%                      |
+| Potassium            | 30 mg                  | 1%                      |
+
+\*Percent Daily Values are based on a 2,000-calorie diet. Your daily values may be higher or lower depending on your calorie needs.
